@@ -2,7 +2,7 @@
 @extends('includes.master')
 
 @section('content')
-
+<!-- test izmena -->
 	<!-- Page Preloder -->
 	<div id="preloder">
 		<div class="loader"></div>
